@@ -1,3 +1,10 @@
+#ignore credentials
+token.json
+credentials.json
+
+# virtual python env
+gdocs
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
